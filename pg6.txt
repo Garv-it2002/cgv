@@ -90,7 +90,7 @@ return(0);
 
 
 
-//Drawtext
+Drawtext
 
 void draw_Text(int x,int y,char* s){
 int i=0;
